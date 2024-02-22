@@ -1,0 +1,24 @@
+table{
+    width: 100%;
+    font-family: "DejaVu Sans";
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: lightgreen;
+}
+th{
+    color: saddlebrown;
+}
+td{
+    color: crimson;
+}
+h2{
+    text-align: center;
+    color: #05e70f;
+    font-family: Meera;
+    font-size: 50px;
+}
+
+

@@ -1,0 +1,41 @@
+.fruits{
+    border: solid 3px blue;
+    background-color: aqua;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Century Schoolbook L";
+}
+.cars{
+    border: dashed 3px red;
+    background-color: #05e70f;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Bitstream Charter";
+}
+.Fruits{
+    border: dashed 2px saddlebrown;
+    background-color: lightgreen;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Courier 10 Pitch";
+
+}
+#computer{
+    border: solid 3px blue;
+    background-color: chocolate;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: "Bitstream Charter";
+}
+#footballers{
+    border: solid 3px yellowgreen;
+    background-color: red;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: "DejaVu Sans";
+}

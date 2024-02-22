@@ -1,0 +1,22 @@
+form{
+    background-color: lime;
+    background-image: url("assets/images/cobra.jpeg");
+}
+label{
+    color: black;
+    font-family: "DejaVu Sans";
+    font-size: 20px;
+}
+input{
+    background-color: orange;
+}
+body{
+    background-color: wheat;
+}
+label,input{
+    padding: 5px;
+    margin: 5px;
+}
+select{
+background-color: aquamarine;
+}
